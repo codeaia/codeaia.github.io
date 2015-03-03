@@ -1,0 +1,70 @@
+/* GENERAL ------------------------------------------------------------*/
+
+body{
+	background: #34444b url(../img/blue/bg.jpg) repeat-x top center;
+	color: #c2d1d5;
+}
+
+div#content{}
+
+a{
+	color: #e2e6e7;
+}
+
+ul#portfolio-filter{
+	background: #0c1a1e;
+}
+
+.sub-header{
+	color: #637d88;
+	border-bottom: 1px solid #637d88;
+}
+
+/* SIDEBAR ------------------------------------------------------*/
+
+#sidebar a{
+	color: #e2e6e7;
+}
+
+#sidebar li h2{
+	color: #e2e6e7;
+}
+
+#sidebar li.sidemenu ul li a{
+	color: #e2e6e7;
+}
+
+#sidebar li.sidemenu ul li{
+	border-bottom: 1px solid #304149;
+}
+
+/* POSTS ------------------------------------------------------*/
+
+.post .post-title,
+.post .post-title,
+.full-width .post .post-title,
+.full-width.post .post-title{
+	color: #0a1721;
+}
+
+
+/* COMMENTS LIST ------------------------------------------------------*/
+
+.comments-list li:nth-child(odd){
+	background: #112329;
+}
+
+
+/* FOOTER ------------------------------------------------------------*/
+
+div#footer{
+	background: url(../img/blue/bg-footer.png) repeat-x;
+}
+
+div#footer ul.footer-cols li.col ul li a{
+	color: #51656e;
+}
+
+div#footer ul.footer-cols li.col h6{
+	color: #e2e6e7;
+}

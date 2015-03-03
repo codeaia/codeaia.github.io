@@ -1,2 +1,10 @@
 # kittencode.github.io
 Official Project for Kitten Code Website
+
+Muro HTML Template was used to design this site, so we are 
+thankfull to its first designer.Here are their contact information
+and also the teamplate we used earlier;
+
+Muro HTML Template
+
+www.twitter.com/ansimuz
