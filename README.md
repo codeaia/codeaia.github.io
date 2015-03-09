@@ -7,4 +7,5 @@ and also the teamplate we used earlier;
 
 Muro HTML Template
 
-www.twitter.com/ansimuz
+Twitter:  [@KittenCodeDev](https://twitter.com/kittencodeDev)
+Blog: http://kittencode.webatu.com
