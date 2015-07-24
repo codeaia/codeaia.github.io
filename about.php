@@ -8,17 +8,9 @@
 	Licensed under MIT License
 -->
 
-<?php
-	$dev_name = 'Kittencode';
-	$project1 = 'Kittenmaxit';
-	$project2 = 'Whoops';
-	$project3 = 'Eu4-local-tr';
-	$project4 = 'Kittenchess';
-?>
-
 <html>
 	<head>
-		<title><?php echo $dev_name;?></title>
+		<title>Kittencode</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -35,7 +27,7 @@
 						<header id="header">
 							<div class="inner">
 								<!-- Logo -->
-								<h1><?php echo $dev_name;?></h1>
+								<h1>About</h1>
 								<!-- Nav -->
 								<nav id="nav">
 									<ul>
@@ -43,10 +35,10 @@
 										<li>
 											<a href="#">Projects</a>
 											<ul>
-												<li><a href="kittenmaxit.php"><?php echo $project1;?></a></li>
-												<li><a href="whoops.php"><?php echo $project2;?></a></li>
+												<li><a href="kittenmaxit.php">Kittenmaxit</a></li>
+												<li><a href="whoops.php">Eu4localtr</li>
 												<li>
-													<a href="eu4localtr.php"><?php echo $project3;?></a>
+													<a href="eu4localtr.php">eu4localtr</a>
 													<ul>
 														<li><a href="#">Lorem ipsum dolor</a></li>
 														<li><a href="#">Phasellus consequat</a></li>
@@ -54,7 +46,7 @@
 														<li><a href="#">Etiam dolore nisl</a></li>
 													</ul>
 												</li>
-												<li><a href="kittenchess.php"><?php echo $project4;?></a></li>
+												<li><a href="kittenchess.php">Kittenchess</a></li>
 											</ul>
 										</li>
 										<li><a href="blog.php">Blog</a></li>
@@ -64,9 +56,6 @@
 							</div>
 						</header>
 					</div>
-
-
-
 			</div>
 		</div>
 
@@ -79,6 +68,6 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-		
+
 	</body>
 </html>

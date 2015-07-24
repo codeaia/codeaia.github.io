@@ -5,17 +5,9 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 
-<?php
-	$dev_name = 'Kittencode';
-	$project1 = 'Kittenmaxit';
-	$project2 = 'Whoops';
-	$project3 = 'Eu4-local-tr';
-	$project4 = 'Kittenchess';
-?>
-
 <html>
 	<head>
-		<title>No Sidebar - ZeroFour by HTML5 UP</title>
+		<title>Kittencode</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -33,36 +25,32 @@
 						<!-- Header -->
 							<header id="header">
 								<div class="inner">
-
-									<!-- Logo -->
-										<h1><?php echo $dev_name;?></h1>
-
-									<!-- Nav -->
-										<nav id="nav">
+								<h1>Blog</h1>
+								<!-- Nav -->
+								<nav id="nav">
+									<ul>
+										<li class="current_page_item"><a href="index.php">Home</a></li>
+										<li>
+											<a href="#">Projects</a>
 											<ul>
-												<li class="current_page_item"><a href="index.php">Home</a></li>
+												<li><a href="kittenmaxit.php">Kittenmaxit</a></li>
+												<li><a href="whoops.php">Eu4localtr</li>
 												<li>
-													<a href="#">Projects</a>
+													<a href="eu4localtr.php">eu4localtr</a>
 													<ul>
-														<li><a href="kittenmaxit.php"><?php echo $project1;?></a></li>
-														<li><a href="whoops.php"><?php echo $project2;?></a></li>
-														<li>
-															<a href="eu4localtr.php"><?php echo $project3;?></a>
-															<ul>
-																<li><a href="#">Lorem ipsum dolor</a></li>
-																<li><a href="#">Phasellus consequat</a></li>
-																<li><a href="#">Magna phasellus</a></li>
-																<li><a href="#">Etiam dolore nisl</a></li>
-															</ul>
-														</li>
-														<li><a href="kittenchess.php"><?php echo $project4;?></a></li>
+														<li><a href="#">Lorem ipsum dolor</a></li>
+														<li><a href="#">Phasellus consequat</a></li>
+														<li><a href="#">Magna phasellus</a></li>
+														<li><a href="#">Etiam dolore nisl</a></li>
 													</ul>
 												</li>
-												<li><a href="blog.php">Blog</a></li>
-												<li><a href="about.php">About</a></li>
+												<li><a href="kittenchess.php">Kittenchess</a></li>
 											</ul>
-										</nav>
-
+										</li>
+										<li><a href="blog.php">Blog</a></li>
+										<li><a href="about.php">About</a></li>
+									</ul>
+								</nav>
 								</div>
 							</header>
 
